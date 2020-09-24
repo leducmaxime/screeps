@@ -1,0 +1,25 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leducmaxime/screeps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leducmaxime/screeps/issues"
+  },
+  "homepage": "https://github.com/leducmaxime/screeps#readme",
+  "dependencies": {
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.3.2",
+    "grunt-screeps": "^1.4.0"
+  }
+}
